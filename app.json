@@ -6,7 +6,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#6c6c6c",
-    "navigationBarTitleText": "传说中的五子棋",
+    "navigationBarTitleText": "五子棋",
     "navigationBarTextStyle": "white"
   },
   "sitemapLocation": "sitemap.json"
